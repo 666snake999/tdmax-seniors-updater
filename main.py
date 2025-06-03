@@ -5,8 +5,8 @@ import time
 import os
 
 # === CONFIGURAÇÕES ===
-USUARIO = "higor.grande"
-SENHA = "h1g0r1312@Foztrans"
+USUARIO = "user aqui"
+SENHA = "senha aqui"
 ARQUIVO_EXCEL = "Relatorio (3).xlsx"
 ARQUIVO_LOG = "cadastros_atualizados.txt"
 INTERVALO_ENTRE_CADASTROS = 1.5  # segundos
